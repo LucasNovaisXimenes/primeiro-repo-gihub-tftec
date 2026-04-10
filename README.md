@@ -10,7 +10,7 @@
     2. Configure as variáveis de ambiente
     3. Execute os testes: `npm test`
     4. Inicie o servidor: `npm start`
-    Teste direto na main
+    5. Teste direto na main
 
 Alteracao vi PR
 
@@ -25,3 +25,9 @@ Alteracao vi PR
     2. Verificar logs em `/var/log/deploy.log`
     3. Validar endpoints de saúde
     4. Health check: /health
+
+    ## Sistema de Monitoramento v2.0
+    - Dashboard de métricas em tempo real
+    - Alertas automatizados por email
+    - Logs centralizados
+    - Health checks automáticos
